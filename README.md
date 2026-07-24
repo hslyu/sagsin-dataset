@@ -1,6 +1,6 @@
 # SAGSIN Dataset Assets
 
-This repository packages the geographic layers, icons, and minimal plotting utilities used to recreate the tutorial scenarios from [secure-sagsin.github.io](https://secure-sagsin.github.io).
+This repository packages geographic layers, icons, and minimal plotting utilities for SAGSIN scenarios.
 It focuses on:
 - Natural Earth shapefiles (land, water, coastline, rivers)
 - Ground/sea/air/LEO coordinate CSVs (Madagascar–Mozambique channel, Mexico, Western North America)
