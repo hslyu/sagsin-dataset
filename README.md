@@ -1,10 +1,17 @@
 # SAGSIN Dataset Assets
 
-This repoistory packages the geographic layers, icons, and minimal plotting utilities used to recreate the tutorial scenarios from [secure-sagsin.github.io](https://secure-sagsin.github.io).
+This repository packages the geographic layers, icons, and minimal plotting utilities used to recreate the tutorial scenarios from [secure-sagsin.github.io](https://secure-sagsin.github.io).
 It focuses on:
 - Natural Earth shapefiles (land, water, coastline, rivers)
 - Ground/sea/air/LEO coordinate CSVs (Madagascar–Mozambique channel, Mexico, Western North America)
 - A `tutorial.ipynb` notebook describing synthetic and real-data map compositions
+
+## Paper and supplementary material
+
+This repository also hosts the dataset and supplementary material for *LOAD: Load-Aware Dual-Price Routing for Cross-Layer Secure Relay in Multi-Layer NTNs*:
+
+- [Main paper (PDF)](main.pdf)
+- [Supplementary material (PDF)](supplementary.pdf)
 
 ## Repository layout
 
